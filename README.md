@@ -4,3 +4,6 @@ See [this](https://bombmanual.com/print/KeepTalkingAndNobodyExplodes-BombDefusal
 
 ### passwords.py
 ``python passwords.py english SQUJBX VTSFNP RXSDUQ DQYVHO VHZTYB``
+
+### morse.py
+``python morse.py english . .-.. .-.. ...``
